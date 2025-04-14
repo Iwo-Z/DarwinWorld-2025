@@ -49,4 +49,4 @@ Darwin World to symulacja świata, w którym ewoluujące zwierzęta przemierzaj�
    ```bash
    git clone https://github.com/twoj-login/darwin-world.git
    ```
-2. Uruchom "WorldGUI"
+2. Uruchom plik ze ścieżką "./DarwinWorld/project/src/main/java/agh/ics/darwinworld/WorldGUI"
