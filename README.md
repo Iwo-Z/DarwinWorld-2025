@@ -48,3 +48,5 @@ Darwin World to symulacja świata, w którym ewoluujące zwierzęta przemierzaj�
 1. Sklonuj repozytorium:
    ```bash
    git clone https://github.com/twoj-login/darwin-world.git
+   ```
+2. Uruchom "WorldGUI"
